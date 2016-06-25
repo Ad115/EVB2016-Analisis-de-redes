@@ -1,5 +1,7 @@
 # EVB2016-Analisis-de-redes
-Repositorio del proyecto de la 1° Escuela de Verano en Bioinformática sobre el análisis de redes de cáncer de mama con datos proporcionados por Diana Drago García (GitHub: @dianadrago)
+Repositorio del proyecto de la 1° Escuela de Verano en Bioinformática sobre el análisis de redes de cáncer de mama 
+
+Los datos se obtuvieron de TCGA (http://cancergenome.nih.gov/), la inferencia de las redes basadas en información mutua fue realizada por Diana Drago García (GitHub: @dianadrago)
 
 La determinación de las medidas de centralidad de las redes se realizaron en R por medio del paquete igraph (http://igraph.org/r/)
 
