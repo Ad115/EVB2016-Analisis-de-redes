@@ -7,4 +7,4 @@ La determinación de las medidas de centralidad de las redes se realizaron en R 
 
 Los algoritmos de Collective Influence fueron proporcionados por Ollin Demian Langle Chimal (https://github.com/ollin18/Complex_Networks)
 
-El código se encuentra disponible como notebboks de Jupyter (http://jupyter.org/)
+El código se encuentra disponible como notebooks de Jupyter (http://jupyter.org/)
